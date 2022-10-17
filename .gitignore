@@ -1,3 +1,5 @@
 venv-Entrega1
+__pycache__
 info.txt
 notas.txt
+db.sqlite3
